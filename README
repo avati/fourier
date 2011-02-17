@@ -1,0 +1,4 @@
+Discrete and Fast Fourier (and inverse) transforms in Scheme
+
+fourier.scm  - Routines for DFT and FFT (and inverses)
+test.scm     - test case
